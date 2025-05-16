@@ -1,2 +1,2 @@
 # .github
-../banner.png
+[](../banner.png)
