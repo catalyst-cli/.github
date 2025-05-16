@@ -1,1 +1,1 @@
-[Catalyst](./banner.png)
+![Catalyst](../banner.png)
